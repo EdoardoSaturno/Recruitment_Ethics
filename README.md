@@ -26,7 +26,7 @@ Our findings highlight persistent fairness challenges and emphasize the need for
 - **Citizenship**  
 - **Protected Status**
 
-Groups are combinations of these features (e.g., “male-young-European-non protected”).
+Groups are combinations of these features (e.g., “male-young-European-non protected”). The python notebook named after a specific category represents the training outcomes of the models after that specific category has been debiased. The standard traning notebook instead contains the original biased results.
 *For more details, data tables, and discussion, please refer to the full report.*
 
 
