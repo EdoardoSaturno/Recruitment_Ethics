@@ -1,6 +1,6 @@
 # Recruitment_Ethics
 
-Analysis of an automatic résumé screening model to identify discriminatory behavior based on **gender, age, and nationality**. Developed and implemented debiasing techniques to mitigate biased model behavior.
+Analysis of an automatic résumé screening model to identify discriminatory behavior based on **gender, age** and **nationality**. Developed and implemented debiasing techniques to mitigate biased model behavior.
 
 ---
 
